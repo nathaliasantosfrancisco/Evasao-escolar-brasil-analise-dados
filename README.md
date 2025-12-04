@@ -1,8 +1,6 @@
 # Análise do Abandono Escolar por Renda (2013–2023)
 
-Este repositório contém o estudo sobre a relação entre **renda média** e **taxa de abandono escolar** no Brasil, no período de 2013 a 2023.
-O objetivo do estudo é investigar se a renda média domiciliar possui impacto significativo sobre o abandono escolar, utilizando regressão linear, testes estatísticos e visualizações gráficas.
-
+Este repositório reúne o estudo desenvolvido por Graziela Leite Casoti e Nathalia Santos Francisco sobre a relação entre a renda média e a taxa de abandono escolar no Brasil, no período de 2013 a 2023. O trabalho tem como objetivo avaliar se a renda média domiciliar exerce impacto significativo sobre o abandono escolar, por meio de modelos de regressão linear, testes estatísticos e visualizações gráficas.
 ## Introdução
 
 O abandono escolar é um dos principais desafios da educação brasileira. Neste estudo, analisamos como a renda média domiciliar influencia a taxa de abandono escolar ao longo dos últimos anos.  
