@@ -1,3 +1,34 @@
+# Análise do Abandono Escolar por Renda (2013–2023)
+
+Este repositório contém o estudo sobre a relação entre **renda média** e **taxa de abandono escolar** no Brasil, no período de 2013 a 2023.
+O objetivo do estudo é investigar se a renda média domiciliar possui impacto estatisticamente significativo sobre o abandono escolar, utilizando **modelagem de regressão linear**, testes estatísticos e visualizações gráficas.
+
+## Introdução
+
+O abandono escolar é um dos principais desafios da educação brasileira. Neste estudo, analisamos como a renda média domiciliar influencia a taxa de abandono escolar ao longo dos últimos anos.  
+A análise considera dados públicos e aplica técnicas estatísticas para identificar padrões e relações.
+
+## Dataset
+
+- Arquivo utilizado: **AbandonoEscolar_RendaMedia_2013_2023.csv**
+Fonte: https://www.kaggle.com/datasets/joaoassaoka/taxa-de-abandono-escolar-por-renda-mdia-brasil
+- Principais variáveis:
+  - `Ano`
+  - `Renda_Media`
+  - `Taxa_Abandono`
+  - `Unidade_Geografica`
+
+
+## Metodologia
+
+A análise inclui:
+- Exploração inicial dos dados;
+- Transformação e padronização das variáveis;
+- Ajuste de modelos de regressão linear;
+- Seleção de variáveis via Stepwise (Forward, Backward, Both);
+- Visualização gráfica da relação entre renda e abandono.
+
+## Código utilizado na análise
 ```r
 #Biblioteca
 library(readr)
