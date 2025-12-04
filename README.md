@@ -13,12 +13,6 @@ A análise considera dados públicos e aplica técnicas estatísticas para ident
 - Arquivo utilizado: **AbandonoEscolar_RendaMedia_2013_2023.csv**
   
 Fonte: https://www.kaggle.com/datasets/joaoassaoka/taxa-de-abandono-escolar-por-renda-mdia-brasil
-- Principais variáveis:
-  - `Ano`
-  - `Renda_Media`
-  - `Taxa_Abandono`
-  - `Unidade_Geografica`
-
 
 ## Metodologia
 
